@@ -6,11 +6,8 @@ using System.Threading.Tasks;
 
 namespace POO
 {
-    class Program
+    class ContaPoupanca : Conta
     {
-        static void Main(string[] args)
-        {
-            ContaCorrente cc = new ContaCorrente();
-        }
+
     }
 }

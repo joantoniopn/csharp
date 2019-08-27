@@ -6,11 +6,15 @@ using System.Threading.Tasks;
 
 namespace POO
 {
-    class Program
+    class ContaCorrente : Conta
     {
-        static void Main(string[] args)
+        public decimal taxaMovimento;
+
+        public ContaCorrente()
         {
-            ContaCorrente cc = new ContaCorrente();
+ 
         }
+
+  
     }
 }
