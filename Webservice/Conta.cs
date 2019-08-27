@@ -6,7 +6,7 @@ namespace POO
     {
         public int Agencia { get; private set; }
         public int NumeroConta { get; private set; }
-        public decimal Saldo { get; private set; }
+        public decimal Saldo { get; set; }
         public decimal Limite { get; private set; }
 
         public Conta()
@@ -27,12 +27,12 @@ namespace POO
             }
         }
 
-        void Sacar(decimal valor)
+        public virtual void Sacar(decimal valor)
         {
             Saldo -= valor;
         }
 
-        void Depositar(decimal valor)
+        public void Depositar(decimal valor)
         {
             Saldo += valor;
         }
