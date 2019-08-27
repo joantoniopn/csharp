@@ -1,0 +1,11 @@
+C:\Users\joao-\source\repos\csharp\Webservice\bin\Debug\netcoreapp2.1\Webservice.deps.json
+C:\Users\joao-\source\repos\csharp\Webservice\bin\Debug\netcoreapp2.1\Webservice.runtimeconfig.json
+C:\Users\joao-\source\repos\csharp\Webservice\bin\Debug\netcoreapp2.1\Webservice.runtimeconfig.dev.json
+C:\Users\joao-\source\repos\csharp\Webservice\bin\Debug\netcoreapp2.1\Webservice.dll
+C:\Users\joao-\source\repos\csharp\Webservice\bin\Debug\netcoreapp2.1\Webservice.pdb
+C:\Users\joao-\source\repos\csharp\Webservice\obj\Debug\netcoreapp2.1\Webservice.csprojAssemblyReference.cache
+C:\Users\joao-\source\repos\csharp\Webservice\obj\Debug\netcoreapp2.1\Webservice.csproj.CoreCompileInputs.cache
+C:\Users\joao-\source\repos\csharp\Webservice\obj\Debug\netcoreapp2.1\Webservice.AssemblyInfoInputs.cache
+C:\Users\joao-\source\repos\csharp\Webservice\obj\Debug\netcoreapp2.1\Webservice.AssemblyInfo.cs
+C:\Users\joao-\source\repos\csharp\Webservice\obj\Debug\netcoreapp2.1\Webservice.dll
+C:\Users\joao-\source\repos\csharp\Webservice\obj\Debug\netcoreapp2.1\Webservice.pdb

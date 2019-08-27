@@ -8,13 +8,11 @@ namespace POO
 {
     class ContaCorrente : Conta
     {
-        public decimal taxaMovimento;
+        public decimal TaxaMovimento { get; private set; }
 
-        public ContaCorrente()
+        public ContaCorrente() : base(999)
         {
- 
-        }
-
-  
+            TaxaMovimento = 0.1m;
+        }      
     }
 }
