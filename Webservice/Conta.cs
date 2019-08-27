@@ -6,7 +6,7 @@ namespace POO
     {
         public int Agencia { get; private set; }
         public int NumeroConta { get; private set; }
-        public decimal Saldo { get; set; }
+        public decimal Saldo { get; private set; }
         public decimal Limite { get; private set; }
 
         public Conta()
