@@ -8,6 +8,10 @@ namespace POO
 {
     class ContaPoupanca : Conta
     {
+        public override void Depositar(decimal valor)
+        {
+            base.Saldo += valor;
+        }
 
     }
 }
