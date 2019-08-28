@@ -30,6 +30,9 @@ namespace POO
 
             Console.WriteLine(rel.SaldoGeral);
 
+            rel.SomarValor(10);
+            rel.SomarValor(10,10);
+
             Console.ReadKey();
         }
     }
