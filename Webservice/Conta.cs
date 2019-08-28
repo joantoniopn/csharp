@@ -2,7 +2,7 @@
 
 namespace POO
 {
-    class Conta
+    public abstract class Conta
     {
         public int Agencia { get; private set; }
         public int NumeroConta { get; private set; }
@@ -27,12 +27,12 @@ namespace POO
             }
         }
 
-        void Sacar(decimal valor)
+        public virtual void Sacar(decimal valor)
         {
             Saldo -= valor;
         }
 
-        void Depositar(decimal valor)
+        public void Depositar(decimal valor)
         {
             Saldo += valor;
         }
