@@ -6,6 +6,6 @@ namespace Webservice
 {
     public interface ITributo
     {
-        decimal SomarTributo();
+        decimal CalcularTributo();
     }
 }

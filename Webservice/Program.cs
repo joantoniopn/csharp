@@ -28,7 +28,10 @@ namespace POO
             rel.Somar(cc);
             rel.Somar(cp);
 
+            rel.SomarTributos(cp);
+
             Console.WriteLine(rel.SaldoGeral);
+            Console.WriteLine(rel.TributoGeral);
 
             rel.SomarValor(10);
             rel.SomarValor(10,10);
